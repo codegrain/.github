@@ -1,12 +1,6 @@
-## Hi there 👋
+<img width="1501" alt="banner@2x" src="https://github.com/user-attachments/assets/0a7f133a-9501-4b71-a172-93a192a1aac1">
 
-<!--
+<br>
+<br>
 
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+We're a [Craft CMS](https://craftcms.com/) plugin studio based in Chicago, Illinois. We create plugins that are exceptionally well-built, feature-rich and a joy to use.
